@@ -1,0 +1,172 @@
+[22:47:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:47:47] [main/INFO]: Reloading ResourceManager: Default, bukkit, lost_settlers
+[22:47:50] [Worker-Main-6/INFO]: Loaded 7 recipes
+[22:47:57] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[22:47:57] [Server thread/INFO]: Loading properties
+[22:47:58] [Server thread/INFO]: This server is running CraftBukkit version 3284a-Spigot-3892929-0ab8487 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT)
+[22:47:58] [Server thread/INFO]: Debug logging is disabled
+[22:47:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:47:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:47:58] [Server thread/INFO]: Default game type: ADVENTURE
+[22:47:58] [Server thread/INFO]: Generating keypair
+[22:47:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:47:59] [Server thread/INFO]: Using default channel type
+[22:48:01] [Server thread/INFO]: [ParticleTrails] Loading ParticleTrails v1.0
+[22:48:01] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.8.0
+[22:48:06] [Server thread/INFO]: [LostSettlers] Loading LostSettlers v3.0
+[22:48:06] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.8.0
+[22:48:06] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[22:48:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:48:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:48:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:48:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:48:06] [Server thread/INFO]: Preparing level "lobby"
+[22:48:07] [Server thread/INFO]: -------- World Settings For [lobby] --------
+[22:48:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:48:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:48:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: false
+[22:48:07] [Server thread/INFO]: Item Merge Radius: 0.0
+[22:48:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:48:07] [Server thread/INFO]: View Distance: 16
+[22:48:07] [Server thread/INFO]: Entity Tracking Range: Pl 800 / An 800 / Mo 800 / Mi 800 / Other 800
+[22:48:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:48:07] [Server thread/INFO]: Experience Merge Radius: 0.0
+[22:48:07] [Server thread/INFO]: Mob Spawn Range: 6
+[22:48:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:48:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Cane Growth Modifier: 200%
+[22:48:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Sapling Growth Modifier: 200%
+[22:48:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Wheat Growth Modifier: 200%
+[22:48:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:48:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:48:07] [Server thread/INFO]: Max TNT Explosions: 100
+[22:48:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:48:07] [Server thread/INFO]: -------- World Settings For [lobby_the_end] --------
+[22:48:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:48:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:48:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: false
+[22:48:07] [Server thread/INFO]: Item Merge Radius: 0.0
+[22:48:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:48:07] [Server thread/INFO]: View Distance: 16
+[22:48:07] [Server thread/INFO]: Entity Tracking Range: Pl 800 / An 800 / Mo 800 / Mi 800 / Other 800
+[22:48:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:48:07] [Server thread/INFO]: Experience Merge Radius: 0.0
+[22:48:07] [Server thread/INFO]: Mob Spawn Range: 6
+[22:48:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:48:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Cane Growth Modifier: 200%
+[22:48:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Sapling Growth Modifier: 200%
+[22:48:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Wheat Growth Modifier: 200%
+[22:48:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:48:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:48:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:48:07] [Server thread/INFO]: Max TNT Explosions: 100
+[22:48:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:48:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:48:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:48:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:48:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:48:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:48:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:48:10] [Worker-Main-5/INFO]: Preparing spawn area: 3%
+[22:48:10] [Worker-Main-4/INFO]: Preparing spawn area: 19%
+[22:48:11] [Worker-Main-5/INFO]: Preparing spawn area: 24%
+[22:48:11] [Worker-Main-6/INFO]: Preparing spawn area: 30%
+[22:48:12] [Worker-Main-5/INFO]: Preparing spawn area: 52%
+[22:48:12] [Worker-Main-5/INFO]: Preparing spawn area: 72%
+[22:48:13] [Worker-Main-5/INFO]: Preparing spawn area: 98%
+[22:48:13] [Server thread/INFO]: Time elapsed: 6100 ms
+[22:48:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:48:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:48:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:48:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:48:15] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[22:48:16] [Worker-Main-4/INFO]: Preparing spawn area: 37%
+[22:48:16] [Worker-Main-4/INFO]: Preparing spawn area: 37%
+[22:48:17] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[22:48:17] [Worker-Main-5/INFO]: Preparing spawn area: 69%
+[22:48:18] [Worker-Main-6/INFO]: Preparing spawn area: 81%
+[22:48:18] [Worker-Main-6/INFO]: Preparing spawn area: 87%
+[22:48:19] [Server thread/INFO]: Time elapsed: 4942 ms
+[22:48:19] [Server thread/INFO]: [ParticleTrails] Enabling ParticleTrails v1.0
+[22:48:19] [Server thread/INFO]: [LostSettlers] Enabling LostSettlers v3.0
+[22:48:21] [Server thread/INFO]: DEEPSLATE_EMERALD_ORE
+[22:48:21] [Server thread/INFO]: DEEPSLATE_LAPIS_ORE
+[22:48:21] [Server thread/INFO]: PINK_TERRACOTTA
+[22:48:21] [Server thread/INFO]: REDSTONE_ORE
+[22:48:21] [Server thread/INFO]: BLUE_TERRACOTTA
+[22:48:21] [Server thread/INFO]: CLAY
+[22:48:21] [Server thread/INFO]: NETHER_QUARTZ_ORE
+[22:48:21] [Server thread/INFO]: CYAN_TERRACOTTA
+[22:48:21] [Server thread/INFO]: COAL_ORE
+[22:48:21] [Server thread/INFO]: EMERALD_ORE
+[22:48:21] [Server thread/INFO]: MAGENTA_TERRACOTTA
+[22:48:21] [Server thread/INFO]: DEEPSLATE_REDSTONE_ORE
+[22:48:21] [Server thread/INFO]: RAW_GOLD
+[22:48:21] [Server thread/INFO]: GOLD_ORE
+[22:48:21] [Server thread/INFO]: BROWN_TERRACOTTA
+[22:48:21] [Server thread/INFO]: BASALT
+[22:48:21] [Server thread/INFO]: DEEPSLATE_IRON_ORE
+[22:48:21] [Server thread/INFO]: RAW_COPPER
+[22:48:21] [Server thread/INFO]: RED_SANDSTONE
+[22:48:21] [Server thread/INFO]: DEEPSLATE_DIAMOND_ORE
+[22:48:21] [Server thread/INFO]: COBBLED_DEEPSLATE
+[22:48:21] [Server thread/INFO]: DIAMOND_ORE
+[22:48:21] [Server thread/INFO]: QUARTZ_BLOCK
+[22:48:21] [Server thread/INFO]: SANDSTONE
+[22:48:21] [Server thread/INFO]: LIGHT_BLUE_TERRACOTTA
+[22:48:21] [Server thread/INFO]: WET_SPONGE
+[22:48:21] [Server thread/INFO]: PURPLE_TERRACOTTA
+[22:48:21] [Server thread/INFO]: GREEN_TERRACOTTA
+[22:48:21] [Server thread/INFO]: DEEPSLATE_GOLD_ORE
+[22:48:21] [Server thread/INFO]: ORANGE_TERRACOTTA
+[22:48:21] [Server thread/INFO]: GRAY_TERRACOTTA
+[22:48:21] [Server thread/INFO]: IRON_PICKAXE
+[22:48:21] [Server thread/INFO]: NETHERRACK
+[22:48:21] [Server thread/INFO]: BLACK_TERRACOTTA
+[22:48:21] [Server thread/INFO]: LAPIS_ORE
+[22:48:21] [Server thread/INFO]: CLAY_BALL
+[22:48:21] [Server thread/INFO]: IRON_ORE
+[22:48:21] [Server thread/INFO]: DEEPSLATE_COPPER_ORE
+[22:48:21] [Server thread/INFO]: YELLOW_TERRACOTTA
+[22:48:21] [Server thread/INFO]: COBBLESTONE
+[22:48:21] [Server thread/INFO]: STONE
+[22:48:21] [Server thread/INFO]: KELP
+[22:48:21] [Server thread/INFO]: LIGHT_GRAY_TERRACOTTA
+[22:48:21] [Server thread/INFO]: DEEPSLATE_COAL_ORE
+[22:48:21] [Server thread/INFO]: RAW_IRON
+[22:48:21] [Server thread/INFO]: NETHER_GOLD_ORE
+[22:48:21] [Server thread/INFO]: GOLDEN_PICKAXE
+[22:48:21] [Server thread/INFO]: COPPER_ORE
+[22:48:21] [Server thread/INFO]: ANCIENT_DEBRIS
+[22:48:21] [Server thread/INFO]: RED_TERRACOTTA
+[22:48:21] [Server thread/INFO]: WHITE_TERRACOTTA
+[22:48:21] [Server thread/INFO]: LIME_TERRACOTTA
+[22:48:21] [Server thread/INFO]: [LostSettlers] ===============================[m
+[22:48:21] [Server thread/INFO]: [LostSettlers]   [0;36;1mPlugin [0;33;22mLost Settlers[0;36;22m active[m
+[22:48:21] [Server thread/INFO]: [LostSettlers] ===============================[m
+[22:48:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:48:21] [Server thread/INFO]: Done (14.392s)! For help, type "help"
