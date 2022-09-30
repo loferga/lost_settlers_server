@@ -1076,3 +1076,18 @@ java.lang.NoClassDefFoundError: Could not initialize class fr.loferga.lost_settl
 [15:15:14] [Server thread/INFO]: [loferga: Set own game mode to Creative Mode]
 [15:15:20] [Server thread/INFO]: loferga issued server command: /gamemode adventure
 [15:15:20] [Server thread/INFO]: [loferga: Set own game mode to Adventure Mode]
+[15:29:29] [Server thread/INFO]: loferga lost connection: Disconnected
+[15:29:29] [Server thread/INFO]: loferga left the game
+[15:29:40] [Server thread/INFO]: Stopping the server
+[15:29:40] [Server thread/INFO]: Stopping server
+[15:29:40] [Server thread/INFO]: [LostSettlers] Disabling LostSettlers v3.0
+[15:29:40] [Server thread/INFO]: [LostSettlers] [0;31;22mPlugin Disabled[m
+[15:29:40] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.8.0
+[15:29:40] [Server thread/INFO]: [ParticleTrails] Disabling ParticleTrails v1.0
+[15:29:40] [Server thread/INFO]: Saving players
+[15:29:40] [Server thread/INFO]: Saving worlds
+[15:29:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[lobby]'/minecraft:overworld
+[15:29:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[lobby_the_end]'/minecraft:the_end
+[15:29:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (lobby): All chunks are saved
+[15:29:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:29:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
