@@ -45,9 +45,9 @@ maps:
     playable_area: 200
     camps:
       positions:
-        meadow: [-116.5, 71.0, 346.5]
-        coast: [-5.5, 81.0, 468.5]
-        lake: [-192.5, 66.0, 451.5]
+        meadow: [-116.5, 71.0, 346.5, true]
+        coast: [-5.5, 81.0, 468.5, false]
+        lake: [-192.5, 66.0, 451.5, false]
       settings:
         camp_size: 19.5
         vital_size: 8.5
@@ -56,7 +56,15 @@ maps:
     lodes_active: false
     lodes:
       ores:
-        #...
+        coal_ore:       [1.0, 5, 1.3, [2.0, 4.5, 1.0, 3.5, 1.0, 1.5], 115]
+        iron_ore:       [1.0, 2, 1.2, [1.5, 3.5, 1.0, 2.5, 1.0, 1.5], 240]
+        copper_ore:     [0.8, 3, 1.0, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 60]
+        gold_ore:       [0.6, 2, 0.8, [1.5, 2.5, 1.0, 2.0, 0.5, 1.0], 60]
+        redstone_ore:   [0.3, 3, 1.2, [1.0, 2.0, 1.0, 1.5, 0.5, 1.0], 50]
+        lapis_ore:      [0.3, 3, 1.2, [1.5, 3.0, 1.0, 2.0, 1.0, 1.5], 50]
+        diamond_ore:    [0.3, 6, 0.6, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 100]
+        emerald_ore:    [0.2, 7, 1.0, [1.0, 1.5, 0.5, 1.0, 0.5, 1.0], 50]
+        ancient_debris: [0.1, 1, 1.8, [0.5, 1.0, 0.5, 1.0, 0.5, 1.0], 60]
   desert:
     playable_area: 150
     camps:
@@ -84,9 +92,9 @@ maps:
 
 teams:
 # <teamName>: "[ChatColor, flagMaterial, DyeColor, red, green and blue value of team Color]"
-  Oranges: ["gold", "orange_concrete", "orange", 255, 120, 0]
+  Oranges: ["gold", "orange_concrete", "orange", 255, 165, 0]
   Rouges: ["red", "red_concrete", "red", 255, 0, 0]
-  Violets: ["light_purple", "purple_concrete", "purple", 160, 0, 255]
+  Violets: ["light_purple", "purple_concrete", "purple", 128, 0, 128]
 
 # WIP
 mobs:
