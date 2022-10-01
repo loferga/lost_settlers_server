@@ -45,9 +45,9 @@ maps:
     playable_area: 200
     camps:
       positions:
-        meadow: [-116.5, 71.0, 346.5, true]
-        coast: [-5.5, 81.0, 468.5, false]
-        lake: [-192.5, 66.0, 451.5, false]
+        meadow: [-116.5, 71.0, 346.5, false]
+        coast: [0.5, 80.0, 480.5, true]
+        lake: [-112.5, 101.0, 480.5, false]
       settings:
         camp_size: 19.5
         vital_size: 8.5
