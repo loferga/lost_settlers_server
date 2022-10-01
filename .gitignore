@@ -2,3 +2,4 @@ start.bat
 start.sh
 cfg.lnk
 bundler/
+logs/
