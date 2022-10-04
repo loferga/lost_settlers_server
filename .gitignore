@@ -3,3 +3,4 @@ start.sh
 cfg.lnk
 bundler/
 logs/
+crash-reports/
