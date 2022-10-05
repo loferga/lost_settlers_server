@@ -17,30 +17,6 @@ maps:
   spawn:
     worldname: "lobby"
     location: [0.5, 10.0, 0.5]
-  generic:
-    playable_area: 190
-    camps:
-      positions:
-        hill: [-879.5, 70.0, 435.5, true]
-        river: [-935.5, 64.0, 312.5, false]
-        foreset: [-1027.5, 64.0, 415.5, true]
-      settings:
-        camp_size: 19.5
-        vital_size: 8.5
-    highest_ground: 72
-    chamber_height: 16
-    lodes_active: false
-    lodes:
-      ores:
-        coal_ore:       [1.0, 5, 1.3, [2.0, 4.5, 1.0, 3.5, 1.0, 1.5], 115]
-        iron_ore:       [1.0, 2, 1.2, [1.5, 3.5, 1.0, 2.5, 1.0, 1.5], 240]
-        copper_ore:     [0.8, 3, 1.0, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 60]
-        gold_ore:       [0.6, 2, 0.8, [1.5, 2.5, 1.0, 2.0, 0.5, 1.0], 60]
-        redstone_ore:   [0.3, 3, 1.2, [1.0, 2.0, 1.0, 1.5, 0.5, 1.0], 50]
-        lapis_ore:      [0.3, 3, 1.2, [1.5, 3.0, 1.0, 2.0, 1.0, 1.5], 50]
-        diamond_ore:    [0.3, 6, 0.6, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 100]
-        emerald_ore:    [0.2, 7, 1.0, [1.0, 1.5, 0.5, 1.0, 0.5, 1.0], 50]
-        ancient_debris: [0.1, 1, 1.8, [0.5, 1.0, 0.5, 1.0, 0.5, 1.0], 60]
   test:
     playable_area: 200
     camps:
@@ -64,29 +40,53 @@ maps:
         diamond_ore:    [0.3, 6, 0.6, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 100]
         emerald_ore:    [0.2, 7, 1.0, [1.0, 1.5, 0.5, 1.0, 0.5, 1.0], 50]
         ancient_debris: [0.1, 1, 1.8, [0.5, 1.0, 0.5, 1.0, 0.5, 1.0], 60]
-  desert:
-    playable_area: 150
-    camps:
-      positions:
-        first: [-215.5, 73.0, -180.5, false]
-        second: [-260.5, 73.0, -80.0, false]
-      settings:
-        camp_size: 19.5
-        vital_size: 8.5
-    highest_ground: 65
-    chamber_height: 16
-    lodes_active: false
-    lodes:
-      ores:
-        coal_ore:       [1.0, 5, 1.3, [2.0, 4.5, 1.0, 3.5, 1.0, 1.5], 115]
-        iron_ore:       [1.0, 2, 1.2, [1.5, 3.5, 1.0, 2.5, 1.0, 1.5], 240]
-        copper_ore:     [0.8, 3, 1.0, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 60]
-        gold_ore:       [0.6, 2, 0.8, [1.5, 2.5, 1.0, 2.0, 0.5, 1.0], 60]
-        redstone_ore:   [0.3, 3, 1.2, [1.0, 2.0, 1.0, 1.5, 0.5, 1.0], 50]
-        lapis_ore:      [0.3, 3, 1.2, [1.5, 3.0, 1.0, 2.0, 1.0, 1.5], 50]
-        diamond_ore:    [0.3, 6, 0.6, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 100]
-        emerald_ore:    [0.2, 7, 1.0, [1.0, 1.5, 0.5, 1.0, 0.5, 1.0], 50]
-        ancient_debris: [0.1, 1, 1.8, [0.5, 1.0, 0.5, 1.0, 0.5, 1.0], 60]
+  # generic:
+  #   playable_area: 190
+  #   camps:
+  #     positions:
+  #       hill: [-879.5, 70.0, 435.5, true]
+  #       river: [-935.5, 64.0, 312.5, false]
+  #       foreset: [-1027.5, 64.0, 415.5, true]
+  #     settings:
+  #       camp_size: 19.5
+  #       vital_size: 8.5
+  #   highest_ground: 72
+  #   chamber_height: 16
+  #   lodes_active: false
+  #   lodes:
+  #     ores:
+  #       coal_ore:       [1.0, 5, 1.3, [2.0, 4.5, 1.0, 3.5, 1.0, 1.5], 115]
+  #       iron_ore:       [1.0, 2, 1.2, [1.5, 3.5, 1.0, 2.5, 1.0, 1.5], 240]
+  #       copper_ore:     [0.8, 3, 1.0, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 60]
+  #       gold_ore:       [0.6, 2, 0.8, [1.5, 2.5, 1.0, 2.0, 0.5, 1.0], 60]
+  #       redstone_ore:   [0.3, 3, 1.2, [1.0, 2.0, 1.0, 1.5, 0.5, 1.0], 50]
+  #       lapis_ore:      [0.3, 3, 1.2, [1.5, 3.0, 1.0, 2.0, 1.0, 1.5], 50]
+  #       diamond_ore:    [0.3, 6, 0.6, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 100]
+  #       emerald_ore:    [0.2, 7, 1.0, [1.0, 1.5, 0.5, 1.0, 0.5, 1.0], 50]
+  #       ancient_debris: [0.1, 1, 1.8, [0.5, 1.0, 0.5, 1.0, 0.5, 1.0], 60]
+  # desert:
+  #   playable_area: 150
+  #   camps:
+  #     positions:
+  #       first: [-215.5, 73.0, -180.5, false]
+  #       second: [-260.5, 73.0, -80.0, false]
+  #     settings:
+  #       camp_size: 19.5
+  #       vital_size: 8.5
+  #   highest_ground: 65
+  #   chamber_height: 16
+  #   lodes_active: false
+  #   lodes:
+  #     ores:
+  #       coal_ore:       [1.0, 5, 1.3, [2.0, 4.5, 1.0, 3.5, 1.0, 1.5], 115]
+  #       iron_ore:       [1.0, 2, 1.2, [1.5, 3.5, 1.0, 2.5, 1.0, 1.5], 240]
+  #       copper_ore:     [0.8, 3, 1.0, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 60]
+  #       gold_ore:       [0.6, 2, 0.8, [1.5, 2.5, 1.0, 2.0, 0.5, 1.0], 60]
+  #       redstone_ore:   [0.3, 3, 1.2, [1.0, 2.0, 1.0, 1.5, 0.5, 1.0], 50]
+  #       lapis_ore:      [0.3, 3, 1.2, [1.5, 3.0, 1.0, 2.0, 1.0, 1.5], 50]
+  #       diamond_ore:    [0.3, 6, 0.6, [1.0, 2.0, 0.5, 1.5, 0.5, 1.0], 100]
+  #       emerald_ore:    [0.2, 7, 1.0, [1.0, 1.5, 0.5, 1.0, 0.5, 1.0], 50]
+  #       ancient_debris: [0.1, 1, 1.8, [0.5, 1.0, 0.5, 1.0, 0.5, 1.0], 60]
         
 
 teams:
