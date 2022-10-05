@@ -12,11 +12,13 @@ pvp_time: 60
 regeneration_delay: 15
 # range of teleportation around flags
 tp_range: 5.5
+# keeps worlds loades
+preload_worlds: true
 
 maps:
   spawn:
-    worldname: "lobby"
-    location: [0.5, 10.0, 0.5]
+    world_name: "lobby"
+    world_spawn: [0.5, 10.0, 0.5]
   test:
     playable_area: 200
     camps:
