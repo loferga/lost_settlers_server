@@ -2,5 +2,6 @@ start.bat
 start.sh
 cfg.lnk
 bundler/
+backup/
 logs/
 crash-reports/
