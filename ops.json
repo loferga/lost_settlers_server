@@ -4,29 +4,5 @@
     "name": "loferga",
     "level": 4,
     "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "cf4ea7ed-6ad7-3f7b-bc99-04ea558a8743",
-    "name": "Goelito",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "1c589ff9-93a9-3d3d-9f0f-1af742025066",
-    "name": "loferga",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "0c94edf4-b820-3b0c-a3ad-526639a8d6dc",
-    "name": "RousseauNicolas",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "22152eb2-fe90-3bf8-9e0e-dd48bc69e8d0",
-    "name": "AvidTugboat7258",
-    "level": 4,
-    "bypassesPlayerLimit": false
   }
 ]
