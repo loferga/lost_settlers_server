@@ -16,7 +16,7 @@ tp_range: 5.5
 preload_worlds: true
 
 maps:
-  spawn:
+  lobby:
     world_name: "lobby"
     world_spawn: [0, 10, 0]
   test:
