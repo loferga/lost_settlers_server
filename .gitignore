@@ -5,3 +5,5 @@ bundler/
 backup/
 logs/
 crash-reports/
+lobby/advancements/
+lobby/stats/
