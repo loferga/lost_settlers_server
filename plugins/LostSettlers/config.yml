@@ -18,16 +18,16 @@ preload_worlds: true
 maps:
   spawn:
     world_name: "lobby"
-    world_spawn: [0.5, 10.0, 0.5]
+    world_spawn: [0, 10, 0]
   test:
     playable_area: 200
     camps:
       camp_size: 19.5
       vital_size: 8.5
       positions:
-        meadow: [-116.5, 71.0, 346.5, false]
-        coast: [0.5, 80.0, 480.5, true]
-        lake: [-112.5, 101.0, 480.5, false]
+        meadow: [-116.5, 71.0, 346.5, "east"]
+        coast: [0.5, 80.0, 480.5, "north"]
+        lake: [-112.5, 101.0, 480.5, "west"]
     highest_ground: 95
     chamber_height: -17
     lodes_active: false
