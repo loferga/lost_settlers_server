@@ -7,7 +7,7 @@
       "type": "player",
       "gamemode": "adventure"
     },
-    "nbt": "{Tags:[\"ls_in_jumping_area\"]}",
+    "nbt": "{Tags:[\"ls_in_jump_area\"]}",
     "location": {
       "position": {
         "y": {
