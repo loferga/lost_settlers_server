@@ -7,3 +7,5 @@ logs/
 crash-reports/
 lobby/advancements/
 lobby/stats/
+plugins/WorldEdit.jar
+plugins/WorldEdit/
