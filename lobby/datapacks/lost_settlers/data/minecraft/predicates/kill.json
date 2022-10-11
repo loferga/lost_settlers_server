@@ -3,6 +3,10 @@
   "entity": "this",
   "predicate": {
     "type": "minecraft:player",
+    "type_specific": {
+      "type": "player",
+      "gamemode": "adventure"
+    },
     "nbt": "{Tags:[\"ls_in_jumping_area\"]}",
     "location": {
       "position": {
@@ -11,9 +15,6 @@
           "max": 9
         }
       }
-    },
-    "player": {
-      "gamemode": "adventure"
     }
   }
 }
